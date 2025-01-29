@@ -36,7 +36,7 @@ and every piece of interaction with each of the United States bodies I went thro
 ## [2. The Petition](2-petition/README.md)
 
 My complete petition with only a few private things blacked out,
-the process of writing it, my strategy for each criterion, and all the reasoning. [Read my petition here](2-PETITION.md).
+the process of writing it, my strategy for each criterion, and all the reasoning. [Read my petition here](2-petition/README.md).
 
 ## [3. Improvements to the Process I Suggest](3-improvements/README.md)
 
